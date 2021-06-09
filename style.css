@@ -1,0 +1,45 @@
+.submit-area{
+   margin-top: 50px;
+   box-shadow: 2px 2px 10px rgb(219, 219, 219);
+   padding: 50px; 
+}
+.submit-area-right{
+   background-color: #D60265;
+   color: white;
+   text-align: center;
+}
+.submit-area h4{
+   color: #D60265;
+   text-shadow: 2px 2px 5px rgb(143, 143, 143);
+}
+
+.submit-area-right i{
+   font-size: 30px;
+   text-shadow: 2px 2px 5px rgb(143, 143, 143);
+   padding-bottom: 20px;
+}
+#transaction-area{
+   display: none;
+}
+.deposit{
+   background-color: #D60265;
+   color: white;
+}
+.withdraw{
+   background-color: #D60265;
+   color: white;
+}
+.balance{
+   background-color: #D60265;
+   color: white;
+}
+.status{
+   padding: 20px;
+   margin-top: 50px;
+   box-shadow: 2px 2px 10px rgb(124, 124, 124);
+}
+.btnColor{
+   background-color: #D60265;
+   box-shadow: 2px 2px 10px rgb(124, 124, 124);
+   border-radius: 0px;
+}
